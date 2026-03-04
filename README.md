@@ -50,5 +50,7 @@ data.txt
 ## Author
 
 D.Rishitha
+
 B.Tech CSE Student
+
 Aspiring Software Developer
