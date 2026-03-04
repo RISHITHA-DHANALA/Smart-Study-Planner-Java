@@ -52,7 +52,3 @@ data.txt
 D.Rishitha
 B.Tech CSE Student
 Aspiring Software Developer
-
-Dora  
-B.Tech CSE Student  
-Aspiring Software Developer
